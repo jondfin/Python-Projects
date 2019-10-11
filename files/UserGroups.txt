@@ -1,0 +1,4 @@
+basic = ['user', 'john']
+people = ['tom', 'bill', '1234']
+author = ['stephen']
+rich = ['mark']

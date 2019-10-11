@@ -1,0 +1,2 @@
+sell = [('rich', 'normal_content'), ('rich', 'premium_content'), ('author', 'premium_content')]
+view = [('people', 'normal_content'), ('basic', 'normal_content'), ('rich', 'normal_content'), ('author', 'normal_content')]

@@ -1,0 +1,2 @@
+premium_content = ['hbo', 'showtime', 'disney']
+normal_content = ['cbs', 'nbc', 'fox', 'abc']

@@ -1,0 +1,7 @@
+"user":pass
+"john":doe
+"tom":hanks
+"bill":burr
+"1234":5678
+"stephen":king
+"mark":cuban
